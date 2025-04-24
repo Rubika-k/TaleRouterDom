@@ -1,6 +1,6 @@
-import Happy from "./assets/images/happyclient-01.jpg"
-import About from "./assets/images/about-us-image.jpg"
-import Video from "./assets/images/video-thumb.jpg"
+import Happy from "../assets/images/happyclient-01.jpg"
+import About from "../assets/images/about-us-image.jpg"
+import Video from "../assets/images/video-thumb.jpg"
 
 
 function Home(){

@@ -1,9 +1,8 @@
-import Services1 from "./src/assets/images/services-01.jpg"
-import Services2 from "./src/assets/images/services-02.jpg"
-import Services3 from "./src/assets/images/services-03.jpg"
-import Services4 from "./src/assets/images/services-04.jpg"
-import Left from "./src/assets/images/left-infos.jpg"
-
+import Services1 from "../assets/images/services-01.jpg"
+import Services2 from "../assets/images/services-02.jpg"
+import Services3 from "../assets/images/services-03.jpg"
+import Services4 from "../assets/images/services-04.jpg"
+import Left from "../assets/images/left-infos.jpg"
 
 
 function AboutUs(){

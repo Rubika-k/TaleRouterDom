@@ -1,9 +1,9 @@
 import React from "react";
-import Faqs from "./assets/images/faqs-image.jpg";
-import Services01 from "./assets/images/services-01.jpg";
-import Services02 from "./assets/images/services-02.jpg";
-import Services03 from "./assets/images/services-03.jpg";
-import Services04 from "./assets/images/services-04.jpg";
+import Faqs from "../assets/images/faqs-image.jpg";
+import Services01 from "../assets/images/services-01.jpg";
+import Services02 from "../assets/images/services-02.jpg";
+import Services03 from "../assets/images/services-03.jpg";
+import Services04 from "../assets/images/services-04.jpg";
 
 function Faq(){
 return(
